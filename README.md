@@ -31,7 +31,7 @@ A modern Rock Paper Scissors game built with React and TypeScript featuring anim
 ---
 
 ## Live Demo
-🔗 [[Play the Game Here](YOUR_REPLIT_LINK_HERE](https://rock-paper-scissors--usingid115.replit.app/))
+🔗https://rock-paper-scissors--usingid115.replit.app/
 
 ---
 
