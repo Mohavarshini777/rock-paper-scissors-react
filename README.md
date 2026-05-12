@@ -34,6 +34,17 @@ A modern Rock Paper Scissors game built with React and TypeScript featuring anim
 🔗https://rock-paper-scissors--usingid115.replit.app/
 
 ---
+## Screenshots
+
+### Main Gameplay
+![Main Gameplay](screenshots/<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/00b26629-2153-4efd-a715-5fdcbe4d09f9" />
+g)
+
+### Replay Mode
+![Replay Mode](screenshots/<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c9cd585d-7c23-458e-8de2-ef02ba96f928" />
+)
+
+
 
 ## Installation
 
