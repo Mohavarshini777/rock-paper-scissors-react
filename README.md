@@ -45,5 +45,5 @@ git clone https://github.com/YOUR_USERNAME/rock-paper-scissors-react.git
 cd rock-paper-scissors-react
 npm install
 npm run dev
-<img width="1903" height="971" alt="image" src="https://github.com/user-attachments/assets/f08cdd2c-7646-4a72-8ddd-a10f08743caa" />
+
 
