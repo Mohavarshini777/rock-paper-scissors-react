@@ -1,7 +1,7 @@
 # Rock Paper Scissors React Game 🎮
 
 ## Overview
-A modern Rock Paper Scissors game built with React and TypeScript featuring animated gameplay, multiple difficulty levels, replay mode, persistent statistics, and an interactive responsive UI. The application uses local storage to save player statistics across sessions and includes smooth animations for enhanced user experience.
+A modern Rock Paper Scissors game built with React and TypeScript featuring animated gameplay, multiple difficulty levels, replay mode, persistent statistics, and an interactive responsive UI. The application uses local storage to save player statistics across sessions and includes smooth animations for enhanced user experience. This project was developed with the assistance of AI tools for UI generation, debugging, and development acceleration. The project was customized, structured, and deployed independently.
 
 ---
 
